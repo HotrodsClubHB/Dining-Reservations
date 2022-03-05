@@ -7,3 +7,4 @@ Each table size has a number of tables.
 4 top tables can combine to become 8 or 12
 Total reservations = 80%*Total seats
 Total Seats = sum(table size*number of tables)
+Possible Shoify module to integrate with Shopify POS?
